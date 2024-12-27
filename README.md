@@ -1,2 +1,2 @@
 # Python_Basics
-This Repo is on completed python basics for better understanding !
+This Repo is  based on complete python basics for better understanding !
